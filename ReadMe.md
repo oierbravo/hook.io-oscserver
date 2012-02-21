@@ -4,7 +4,7 @@
 
 ## Installation
 
-     npm install hook.io-oscserver -g
+     [sudo] npm install hook.io-oscserver -g
 
 ## Usage
 
